@@ -335,8 +335,8 @@ GET /stock-transfers-statistics
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/tarekbadry30/warehouse-inventory-management-task.git
-cd warehouse-inventory-management-task
+   git clone https://github.com/tarekbadry30/inventory-managment-with-clean-code
+   cd inventory-managment-with-clean-code
 ```
 
 2. **Install Dependencies**

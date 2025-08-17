@@ -126,8 +126,8 @@ in [API_README.md](./API_README.md) and  postman collection [inventory-managment
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tarekbadry30/warehouse-inventory-management-task
-   cd warehouse-inventory-management-task
+   git clone https://github.com/tarekbadry30/inventory-managment-with-clean-code
+   cd inventory-managment-with-clean-code
    ```
 
 2. **Install dependencies**
